@@ -1,4 +1,7 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
+## NAME: J.PREM PRASANTH
+
+## REGISTER NUMBER:2305001028
 
 ## AIM:
 To Implement ELGAMAL ALGORITHM
@@ -67,6 +70,8 @@ print("Decrypted Message:", decrypted)
 ```
 
 ## Output:
+<img width="728" height="359" alt="image" src="https://github.com/user-attachments/assets/f8a456ba-e514-4166-bbd6-95c8ecf06d09" />
+
 
 
 
